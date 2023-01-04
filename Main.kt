@@ -3,8 +3,6 @@ package svcs
 import java.io.File
 
 //const val path = "/home/npc/IdeaProjects/Version Control System/Version Control System/task/src/svcs"
-
-//const val pathVCS = "${path}/vcs"
 const val pathVCS = "vcs"
 const val commitPath = "${pathVCS}/commits"
 const val indexPath = "${pathVCS}/index.txt"
